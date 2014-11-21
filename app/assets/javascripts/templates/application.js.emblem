@@ -1,0 +1,13 @@
+#header
+  article
+    #logo
+      h1
+       a href="#" splash
+h3 login:
+
+p this is some fuckin text
+
+section#main
+  = outlet
+
+footer

@@ -1,3 +1,150 @@
+a {
+  text-decoration: none;
+}
+
+h1 a {
+  color: white;
+}
+
+h1 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 4em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  /*line-height: 26.3999996185303px;*/
+}
+h3 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 2em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.3999996185303px;
+}
+p {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+blockquote {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 1.2em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+pre {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 1em;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 18.5714302062988px;
+}
+
+#header {
+  background-color: #ff6625;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  height: 6em;
+  line-height: 6em;
+  margin-top: -60px;
+}
+
+#logo {
+  color: white;
+  text-align: center;
+  clear: both;
+}
+
+#login {
+  color: white;
+  font-size: 1.5em;
+  text-align: right;
+  margin-top: -150px;
+  padding-right: 40px;
+}
+
+#main {
+}
+
+#borrow {
+  background-color: #0198E1;
+  height: 4em;
+  line-height: 2em;
+  width: 200px;
+  border-radius: 2%;
+  float: right;
+  color: white;
+  display:inline-block;
+  margin-top: 6em;
+  margin-right: 6em;
+  margin-left: 0em;
+  text-align: center;
+}
+#available {
+  color: black;
+  text-align: center;
+  padding: 2.5em;
+  float: left;
+  display:inline-block;
+   font-size: 200%;
+}
+
+.explain {
+  margin-left: 3em;
+  margin-right: 6em;
+  clear: both;
+}
+
+#circles{
+  position:relative;
+  margin-left: 8%;
+}
+.circles {
+  text-align: center;
+  float:left;
+  width: 200px;
+  height:200px;
+  line-height: 200px;
+  border: 2px solid gray;
+  border-radius: 100%;
+  margin: 2em;
+}
+
+#under_circles{
+  position:relative;
+  clear: both;
+}
+
+.under_circles{
+  text-align: center;
+  float:left;
+  width: 200px;
+  margin: 2em;
+}
+
+#fb {
+  background-color: #0198E1;
+  height: 4em;
+  line-height: 2em;
+  width: 200px;
+  border-radius: 2%;
+  color: white;
+  display:inline-block;
+  margin: 2em;
+  text-align: center;
+  margin-left: 40%;
+}
+
+
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
